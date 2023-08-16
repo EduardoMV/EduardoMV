@@ -33,7 +33,12 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-
+<p align="left">
+ 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMV&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMV&layout=donut&langs_count=8)](https://github.com/EduardoMV/github-readme-stats)
+
+</p>
+ 
+
 
