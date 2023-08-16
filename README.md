@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/eduardo-ulises-martinez-vaca-4799aa262
 -->
 
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMV)](https://github.com/EduardoMV/github-readme-stats)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMV&show_icons=true&theme=radical)
+
