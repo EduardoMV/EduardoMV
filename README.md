@@ -1,10 +1,8 @@
 <p align="center">
  
+ <img src="https://github.com/EduardoMV/EduardoMV/assets/81331013/39c9c3a2-1a0e-4cfb-8cc8-3a8eb270e434"/>
+ 
 </p align="center">
-
-
-
-<p align="center">
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/EduardoMV/EduardoMV"/> 
@@ -20,7 +18,6 @@
  <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
