@@ -1,4 +1,5 @@
 <p align="center">
+  <h2 align="center"> Raytracer Award <img src="https://github.com/EduardoMV/EduardoMV/assets/81331013/37a83bac-c70c-4626-ab03-640b698f7e5e" width="50" spacing="35"></h2>
   <img src="https://github.com/EduardoMV/EduardoMV/assets/81331013/39c9c3a2-1a0e-4cfb-8cc8-3a8eb270e434"/>
 </p>
 
@@ -35,6 +36,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMV&layout=donut&langs_count=8"/>
 </p>
 
- 
+<h2 align="center"> About Me 🚀</h2>
+
+- 👋 Hi, I'm Eduardo Ulises Martínez Vaca.
+- 🎓 I'm a student pursuing a Bachelor's in Computational Graphics and Systems Engineering.
+- 💻 I'm a passionate programmer, specializing in Python, C++, C#, and Java.
+- 🌱 I'm aspiring to specialize in Data Science.
+- 🤖 I excel in developing, debugging, and coding across diverse programming languages.
+- 🚀 Explore my projects, and let's collaborate on something amazing!
+
+<p align="center">
+  <i>Let's build the future together! 🌟</i>
+</p>
+
 
 
