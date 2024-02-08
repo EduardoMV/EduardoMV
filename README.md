@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL"/>
 </p>
 
 <p align="center">
