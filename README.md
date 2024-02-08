@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
   <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-lightgray?style=flat-square&logo=PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=Supabase"/>
 </p>
 
 <p align="center">
